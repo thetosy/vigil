@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.1](https://github.com/Vigil-SOC/vigil/compare/v0.4.0...v0.4.1) (2026-07-31)
+
+
+### Bug Fixes
+
+* **api:** offload blocking I/O off the event loop ([#518](https://github.com/Vigil-SOC/vigil/issues/518)) ([cf2cfbb](https://github.com/Vigil-SOC/vigil/commit/cf2cfbb1eee23537f3df8724e7f7e020234c6998))
+
 ## [0.4.0](https://github.com/Vigil-SOC/vigil/compare/v0.3.0...v0.4.0) (2026-07-30)
 
 
